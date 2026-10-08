@@ -1,4 +1,5 @@
-# 👨🏻‍💻 Alexander499 ![profile count](https://komarev.com/ghpvc/?username=Alexander-499&color=red) [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Alexander-499?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)
+# 👨🏻‍💻 Alexander499 [![Alexander499 GitHub Follower Count](https://img.shields.io/github/followers/alexander-499?label=follow&style=social)](https://github.com/alexander-499)
+<!-- ![profile count](https://komarev.com/ghpvc/?username=alexander-499&color=red) -->
 
 <pre align="center">
 ᓚ₍ ^. .^₎                                                            ₍^. .^ ₎ᓗ
@@ -19,7 +20,8 @@
 
 I've been coding websites, apps and programs since 2023. My goal is to design beautiful and aesthetically pleasing user interfaces, with a focus on front-end development and a design-driven approach. **I use Vue!**
 
-› [My Gists (Snippets)](https://gist.github.com/Alexander-499)
+- › [Portfolio](https://alexander499.de)
+- › [My Gists (Snippets)](https://gist.github.com/alexander-499)
 
 <!-- ```js
 // src/profile.js
